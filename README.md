@@ -2,7 +2,7 @@
 **Nodelinks** is a lightweight tool designed for **Cloudflare Workers** that aggregates multiple V2Ray subscription links.  
 It supports both **raw Vmess format** and **encrypted formats**, provides **privacy protection**, and allows **password-based access control**.
 --
-## [中文文档](https://github.com/gududaonet/Nodelinks/blob/main/README-zh.md)
+## [中文文档（推荐）](https://github.com/gududaonet/Nodelinks/blob/main/README-zh.md)
 ## ✨ Features
 - 🚀 Runs entirely on Cloudflare Workers (serverless, zero maintenance)
 - 🔐 Password-protected access via `key` parameter
